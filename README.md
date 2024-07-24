@@ -10,4 +10,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-Special thanks to Andrej Karpathy for providing the original content and inspiration for this project.
+Special thanks to [Andrej Karpathy](https://github.com/karpathy) for providing the original content and inspiration for this project.
