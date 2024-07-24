@@ -21,4 +21,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 Acknowledgements:
-This project is based on the work of Andrej Karpathy, whose original content can be found [here](https://github.com/karpathy/ng-video-lecture/tree/master).
+This project is based on the work of Andrej Karpathy, whose original content can be found here https://github.com/karpathy.
